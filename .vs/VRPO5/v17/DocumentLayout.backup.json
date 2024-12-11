@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|c:\\users\\stepan\\desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0432\u0440\u043F\u043E\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432\u0432\u0440\u043F\u043E5-8\\vrpo7\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78560FA4-8A56-4A50-94B2-3862DA9EE0C3}|VRPO5.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-11-23T20:48:39.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:41:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Kitchen.cs",
+              "RelativeDocumentMoniker": "Kitchen.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Kitchen.cs",
+              "RelativeToolTip": "Kitchen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:14:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:42:16.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:44:15.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:37:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Administrator.cs",
+              "RelativeToolTip": "Administrator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:39:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:43:39.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\Stepan\\Desktop\\\u0431\u0430\u0440\u044B\u0448\u0435\u0432 \u0412\u0420\u041F\u041E\\\u0411\u0430\u0440\u044B\u0448\u0435\u0432\u0412\u0420\u041F\u041E5-8\\VRPO7\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:43:09.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
